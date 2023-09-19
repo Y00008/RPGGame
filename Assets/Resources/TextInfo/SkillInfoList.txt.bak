@@ -1,0 +1,12 @@
+3001,致命一击,Skill_9,+伤害 250%,SingleTarget,Attack,250,0,6,1,Swordman,1,Enemy,5,Effect27,6,1.9
+3002,盾牌精通,Skill_14,+防御 130%,Buff,Def,130,5,3,5,Swordman,3,Self,0,999,5,1.6
+3003,恢复魔法,Skill_13,魔法恢复20,Passive,MP,20,0,0,30,Swordman,5,Self,0,999,4,0.83
+3004,战嚎,Skill_18,攻击提升为200%持续30,Buff,Attack,200,30,30,30,Swordman,8,Self,0,999,5,1.1
+3005,治疗,Skill_13,治愈30HP,Passive,HP,30,0,10,20,Swordman,2,Self,0,999,4,0.83
+3006,陨星,Skill_10,攻击力400%所有敌人,MultiTarget,Attack,400,0,20,20,Swordman,10,Position,7,Effect7,7,2.6
+4001,魔法弹,Skill_4,伤害350%,SingleTarget,Attack,350,0,20,10,Magician,1,Enemy,5,Efx_CriticalStrike,6,1.1
+4002,治疗,Skill_5,治愈30HP,Passive,HP,30,0,10,20,Magician,2,Self,0,Heal_Effect,4,0.83
+4003,恢复魔法,Skill_6,魔法恢复20,Passive,MP,20,0,0,30,Magician,5,Self,0,Effect_ BlueHeal,4,0.83
+4004,魔法爆炸,Skill_0,攻击力为200%持续15秒,Buff,Attack,200,15,30,30,Magician,7,Self,0,RangeMagic_Effect,5,1.1
+4005,加速魔法,Skill_8,攻击速度提升为200%持续30,Buff,AttackSpeed,200,30,30,30,Magician,8,Self,0,Efx_One-handQuicken,5,1.1
+4006,究极风暴,Skill_7,攻击力400%所有敌人,MultiTarget,Attack,400,0,50,40,Magician,9,Position,10,MagicSphere_effect,7,0.8

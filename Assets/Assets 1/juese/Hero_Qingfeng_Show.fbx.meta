@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: df6619c7191de4c4fb8e4495c66df78a
+timeCreated: 1548317121
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Footsteps
+    100004: Bip01 Head
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger01
+    100014: Bip01 L Finger02
+    100016: Bip01 L Finger1
+    100018: Bip01 L Finger11
+    100020: Bip01 L Finger12
+    100022: Bip01 L Finger2
+    100024: Bip01 L Finger21
+    100026: Bip01 L Finger22
+    100028: Bip01 L Finger3
+    100030: Bip01 L Finger31
+    100032: Bip01 L Finger32
+    100034: Bip01 L Finger4
+    100036: Bip01 L Finger41
+    100038: Bip01 L Finger42
+    100040: Bip01 L Foot
+    100042: Bip01 L Forearm
+    100044: Bip01 L Hand
+    100046: Bip01 L Thigh
+    100048: Bip01 L Toe0
+    100050: Bip01 L UpperArm
+    100052: Bip01 Neck
+    100054: Bip01 Pelvis
+    100056: Bip01 R Calf
+    100058: Bip01 R Clavicle
+    100060: Bip01 R Finger0
+    100062: Bip01 R Finger01
+    100064: Bip01 R Finger02
+    100066: Bip01 R Finger1
+    100068: Bip01 R Finger11
+    100070: Bip01 R Finger12
+    100072: Bip01 R Finger2
+    100074: Bip01 R Finger21
+    100076: Bip01 R Finger22
+    100078: Bip01 R Finger3
+    100080: Bip01 R Finger31
+    100082: Bip01 R Finger32
+    100084: Bip01 R Finger4
+    100086: Bip01 R Finger41
+    100088: Bip01 R Finger42
+    100090: Bip01 R Foot
+    100092: Bip01 R Forearm
+    100094: Bip01 R Hand
+    100096: Bip01 R Thigh
+    100098: Bip01 R Toe0
+    100100: Bip01 R UpperArm
+    100102: Bip01 Spine
+    100104: Bip01 Spine1
+    100106: Bip01 Spine2
+    100108: Bone011
+    100110: Bone011(mirrored)
+    100112: Bone012
+    100114: Bone012(mirrored)
+    100116: Bone013
+    100118: Bone013(mirrored)
+    100120: Bone015
+    100122: Bone015(mirrored)
+    100124: Bone016
+    100126: Bone016(mirrored)
+    100128: Bone017
+    100130: Bone017(mirrored)
+    100132: Bone019
+    100134: Bone020
+    100136: Bone021
+    100138: Bone027
+    100140: Bone027(mirrored)
+    100142: Bone028
+    100144: Bone028(mirrored)
+    100146: Bone029
+    100148: Bone029(mirrored)
+    100150: Bone030
+    100152: Bone030(mirrored)
+    100154: Bone036
+    100156: Bone038
+    100158: Bone039
+    100160: Bone040
+    100162: Bone042
+    100164: Bone043
+    100166: Bone045
+    100168: Bone046
+    100170: Bone047
+    100172: Bone049
+    100174: Bone050
+    100176: Bone051
+    100178: Bone053
+    100180: Bone053(mirrored)
+    100182: Bone054
+    100184: Bone054(mirrored)
+    100186: Bone055
+    100188: Bone055(mirrored)
+    100190: Bone056
+    100192: Bone056(mirrored)
+    100194: Bone057
+    100196: Bone057(mirrored)
+    100198: Bone058
+    100200: Bone058(mirrored)
+    100202: Bone059
+    100204: Bone059(mirrored)
+    100206: Bone062
+    100208: Bone062(mirrored)
+    100210: Bone062(mirrored) 1
+    100212: Bone062(mirrored)(mirrored)
+    100214: Bone063
+    100216: Bone063(mirrored)
+    100218: Bone063(mirrored) 1
+    100220: Bone063(mirrored)(mirrored)
+    100222: Bone064
+    100224: Bone064(mirrored)
+    100226: Bone064(mirrored) 1
+    100228: Bone064(mirrored)(mirrored)
+    100230: Bone065
+    100232: Bone065(mirrored)
+    100234: Bone065(mirrored) 1
+    100236: Bone065(mirrored)(mirrored)
+    100238: Bone066
+    100240: Bone066(mirrored)
+    100242: Bone066(mirrored) 1
+    100244: Bone066(mirrored)(mirrored)
+    100246: Bone067
+    100248: Bone067(mirrored)
+    100250: Bone067(mirrored) 1
+    100252: Bone067(mirrored)(mirrored)
+    100254: Bone068
+    100256: Bone068(mirrored)
+    100258: Bone068(mirrored) 1
+    100260: Bone068(mirrored)(mirrored)
+    100262: //RootNode
+    100264: Hero_Qingfeng_Show
+    100266: node_back
+    100268: node_chest
+    100270: node_foot_left
+    100272: node_foot_right
+    100274: node_hand_left
+    100276: node_hand_right
+    100278: node_head
+    100280: node_lock
+    100282: node_step_left
+    100284: node_step_right
+    100286: node_weapon_left
+    100288: node_weapon_right
+    100290: 'qingfeng_body '
+    100292: qingfeng_body _0
+    100294: qingfeng_face
+    100296: qingfeng_face_0
+    100298: qingfeng_hair
+    100300: qingfeng_hair_0
+    100302: qingfeng_weapon002
+    100304: qingfeng_weapon002_0
+    400000: Bip01
+    400002: Bip01 Footsteps
+    400004: Bip01 Head
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger01
+    400014: Bip01 L Finger02
+    400016: Bip01 L Finger1
+    400018: Bip01 L Finger11
+    400020: Bip01 L Finger12
+    400022: Bip01 L Finger2
+    400024: Bip01 L Finger21
+    400026: Bip01 L Finger22
+    400028: Bip01 L Finger3
+    400030: Bip01 L Finger31
+    400032: Bip01 L Finger32
+    400034: Bip01 L Finger4
+    400036: Bip01 L Finger41
+    400038: Bip01 L Finger42
+    400040: Bip01 L Foot
+    400042: Bip01 L Forearm
+    400044: Bip01 L Hand
+    400046: Bip01 L Thigh
+    400048: Bip01 L Toe0
+    400050: Bip01 L UpperArm
+    400052: Bip01 Neck
+    400054: Bip01 Pelvis
+    400056: Bip01 R Calf
+    400058: Bip01 R Clavicle
+    400060: Bip01 R Finger0
+    400062: Bip01 R Finger01
+    400064: Bip01 R Finger02
+    400066: Bip01 R Finger1
+    400068: Bip01 R Finger11
+    400070: Bip01 R Finger12
+    400072: Bip01 R Finger2
+    400074: Bip01 R Finger21
+    400076: Bip01 R Finger22
+    400078: Bip01 R Finger3
+    400080: Bip01 R Finger31
+    400082: Bip01 R Finger32
+    400084: Bip01 R Finger4
+    400086: Bip01 R Finger41
+    400088: Bip01 R Finger42
+    400090: Bip01 R Foot
+    400092: Bip01 R Forearm
+    400094: Bip01 R Hand
+    400096: Bip01 R Thigh
+    400098: Bip01 R Toe0
+    400100: Bip01 R UpperArm
+    400102: Bip01 Spine
+    400104: Bip01 Spine1
+    400106: Bip01 Spine2
+    400108: Bone011
+    400110: Bone011(mirrored)
+    400112: Bone012
+    400114: Bone012(mirrored)
+    400116: Bone013
+    400118: Bone013(mirrored)
+    400120: Bone015
+    400122: Bone015(mirrored)
+    400124: Bone016
+    400126: Bone016(mirrored)
+    400128: Bone017
+    400130: Bone017(mirrored)
+    400132: Bone019
+    400134: Bone020
+    400136: Bone021
+    400138: Bone027
+    400140: Bone027(mirrored)
+    400142: Bone028
+    400144: Bone028(mirrored)
+    400146: Bone029
+    400148: Bone029(mirrored)
+    400150: Bone030
+    400152: Bone030(mirrored)
+    400154: Bone036
+    400156: Bone038
+    400158: Bone039
+    400160: Bone040
+    400162: Bone042
+    400164: Bone043
+    400166: Bone045
+    400168: Bone046
+    400170: Bone047
+    400172: Bone049
+    400174: Bone050
+    400176: Bone051
+    400178: Bone053
+    400180: Bone053(mirrored)
+    400182: Bone054
+    400184: Bone054(mirrored)
+    400186: Bone055
+    400188: Bone055(mirrored)
+    400190: Bone056
+    400192: Bone056(mirrored)
+    400194: Bone057
+    400196: Bone057(mirrored)
+    400198: Bone058
+    400200: Bone058(mirrored)
+    400202: Bone059
+    400204: Bone059(mirrored)
+    400206: Bone062
+    400208: Bone062(mirrored)
+    400210: Bone062(mirrored) 1
+    400212: Bone062(mirrored)(mirrored)
+    400214: Bone063
+    400216: Bone063(mirrored)
+    400218: Bone063(mirrored) 1
+    400220: Bone063(mirrored)(mirrored)
+    400222: Bone064
+    400224: Bone064(mirrored)
+    400226: Bone064(mirrored) 1
+    400228: Bone064(mirrored)(mirrored)
+    400230: Bone065
+    400232: Bone065(mirrored)
+    400234: Bone065(mirrored) 1
+    400236: Bone065(mirrored)(mirrored)
+    400238: Bone066
+    400240: Bone066(mirrored)
+    400242: Bone066(mirrored) 1
+    400244: Bone066(mirrored)(mirrored)
+    400246: Bone067
+    400248: Bone067(mirrored)
+    400250: Bone067(mirrored) 1
+    400252: Bone067(mirrored)(mirrored)
+    400254: Bone068
+    400256: Bone068(mirrored)
+    400258: Bone068(mirrored) 1
+    400260: Bone068(mirrored)(mirrored)
+    400262: //RootNode
+    400264: Hero_Qingfeng_Show
+    400266: node_back
+    400268: node_chest
+    400270: node_foot_left
+    400272: node_foot_right
+    400274: node_hand_left
+    400276: node_hand_right
+    400278: node_head
+    400280: node_lock
+    400282: node_step_left
+    400284: node_step_right
+    400286: node_weapon_left
+    400288: node_weapon_right
+    400290: 'qingfeng_body '
+    400292: qingfeng_body _0
+    400294: qingfeng_face
+    400296: qingfeng_face_0
+    400298: qingfeng_hair
+    400300: qingfeng_hair_0
+    400302: qingfeng_weapon002
+    400304: qingfeng_weapon002_0
+    4300000: qingfeng_body _0
+    4300002: qingfeng_face_0
+    4300004: qingfeng_hair_0
+    4300006: qingfeng_weapon002_0
+    7400000: Qingfeng_UI_loop
+    7400002: Qingfeng_MenuPose_Stand_loop
+    7400004: Qingfeng_MenuPose_Fountain_loop
+    7400006: Qingfeng_MenuPose_Chair_loop
+    7400008: Qingfeng_MenuPose_Stand_Show
+    7400010: Qingfeng_MenuPose_Fountain_Show
+    7400012: Qingfeng_MenuPose_Chair_Show
+    7400014: Qingfeng_UI_Show
+    7400016: Qingfeng_UI_Enter
+    9500000: //RootNode
+    13700000: qingfeng_body _0
+    13700002: qingfeng_face_0
+    13700004: qingfeng_hair_0
+    13700006: qingfeng_weapon002_0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hero_Qingfeng_Body
+    second: {fileID: 2100000, guid: 3254781073a50194382d9b82a18d8c43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hero_Qingfeng_Face
+    second: {fileID: 2100000, guid: f21f8c2fb3990734ca16609ce86d5c0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hero_Qingfeng_Hair
+    second: {fileID: 2100000, guid: cc61add62df220f41aaa50d46a22f218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hero_Qingfeng_Hulu
+    second: {fileID: 2100000, guid: 47573f5467d242c4dac0861e05710a5d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Qingfeng_UI_loop
+      takeName: Qingfeng_UI_loop
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_MenuPose_Stand_loop
+      takeName: Qingfeng_MenuPose_Stand_loop
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_MenuPose_Fountain_loop
+      takeName: Qingfeng_MenuPose_Fountain_loop
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_MenuPose_Chair_loop
+      takeName: Qingfeng_MenuPose_Chair_loop
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_MenuPose_Stand_Show
+      takeName: Qingfeng_MenuPose_Stand_Show
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_MenuPose_Fountain_Show
+      takeName: Qingfeng_MenuPose_Fountain_Show
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_MenuPose_Chair_Show
+      takeName: Qingfeng_MenuPose_Chair_Show
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_UI_Show
+      takeName: Qingfeng_UI_Show
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Qingfeng_UI_Enter
+      takeName: Qingfeng_UI_Enter
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

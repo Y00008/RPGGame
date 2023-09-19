@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 896c2b8db6477834e977ad7ad187a0f2
+timeCreated: 1638341126
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001-Head
+    100006: Bip001-Head01
+    100008: Bip001-L-Calf
+    100010: Bip001-L-Clavicle
+    100012: Bip001-L-Finger0
+    100014: Bip001-L-Finger01
+    100016: Bip001-L-Finger1
+    100018: Bip001-L-Finger11
+    100020: Bip001-L-Finger2
+    100022: Bip001-L-Finger21
+    100024: Bip001-L-Foot
+    100026: Bip001-L-Forearm
+    100028: Bip001-L-Hand
+    100030: Bip001-L-Thigh
+    100032: Bip001-L-Toe0
+    100034: Bip001-L-UpperArm
+    100036: Bip001-Neck
+    100038: Bip001-Pelvis
+    100040: Bip001-R-Calf
+    100042: Bip001-R-Clavicle
+    100044: Bip001-R-Finger0
+    100046: Bip001-R-Finger01
+    100048: Bip001-R-Finger1
+    100050: Bip001-R-Finger11
+    100052: Bip001-R-Finger2
+    100054: Bip001-R-Finger21
+    100056: Bip001-R-Foot
+    100058: Bip001-R-Forearm
+    100060: Bip001-R-Hand
+    100062: Bip001-R-Thigh
+    100064: Bip001-R-Toe0
+    100066: Bip001-R-UpperArm
+    100068: Bip001-Spine
+    100070: Bip001-Spine1
+    100072: Bip001-Spine2
+    100074: Bip001-Spine3
+    100076: Body
+    100078: Bone-L-ForeArm-Twist
+    100080: Bone-L-UpperArm-Twist
+    100082: Bone-R-ForeArm-Twist
+    100084: Bone-R-UpperArm-Twist
+    100086: Bone_armour_LA_02
+    100088: Bone_armour_RA_01
+    100090: Bone_Cloak_L_01
+    100092: Bone_Cloak_L_02
+    100094: Bone_Cloak_L_03
+    100096: Bone_Cloak_L_04
+    100098: Bone_Cloak_R_01
+    100100: Bone_Cloak_R_02
+    100102: Bone_Cloak_R_03
+    100104: Bone_Cloak_R_04
+    100106: Bone_Hair_F_01
+    100108: Bone_Jaw
+    100110: Bone_Skirt_B_01
+    100112: Bone_Skirt_B_02
+    100114: Bone_Skirt_B_03
+    100116: Bone_Skirt_B_04
+    100118: Bone_Skirt_BL_01
+    100120: Bone_Skirt_BL_02
+    100122: Bone_Skirt_BL_03
+    100124: Bone_Skirt_BL_04
+    100126: Bone_Skirt_BR_01
+    100128: Bone_Skirt_BR_02
+    100130: Bone_Skirt_BR_03
+    100132: Bone_Skirt_BR_04
+    100134: Bone_Skirt_F_01
+    100136: Bone_Skirt_F_02
+    100138: Bone_Skirt_F_03
+    100140: Bone_Skirt_F_04
+    100142: Bone_Skirt_L_01
+    100144: Bone_Skirt_L_02
+    100146: Bone_Skirt_L_03
+    100148: Bone_Skirt_L_04
+    100150: Bone_Skirt_R_01
+    100152: Bone_Skirt_R_02
+    100154: Bone_Skirt_R_03
+    100156: Bone_Skirt_R_04
+    100158: Bone_Weapon_L
+    100160: Bone_Weapon_L_Body
+    100162: Bone_Weapon_R
+    100164: Bone_Weapon_R_Body
+    100166: Cloak
+    100168: Face
+    100170: FX_Bottom
+    100172: FX_Center
+    100174: FX_Hand_L
+    100176: FX_Hand_R
+    100178: FX_Top
+    100180: Hair
+    100182: Hand
+    100184: L_Cheek_Bone
+    100186: L_Eye_Dummy
+    100188: L_EyeBall_Bone
+    100190: L_EyeBrow_Bone
+    100192: L_Eyeild_D_Bone
+    100194: L_Eyeild_U_Bone
+    100196: L_Jaw_Side_Bone
+    100198: L_Lip_End_Bone
+    100200: Leg
+    100202: Lip_Center_D_Bone
+    100204: Lip_Center_U_Bone
+    100206: Mainweapon
+    100208: Nose_Bottom_Bone
+    100210: R_Cheek_Bone
+    100212: R_Eye_Dummy
+    100214: R_EyeBall_Bone
+    100216: R_EyeBrow_Bone
+    100218: R_Eyeild_D_Bone
+    100220: R_Eyeild_U_Bone
+    100222: R_Jaw_Side_Bone
+    100224: R_Lip_End_Bone
+    100226: Retina
+    100228: Root
+    100230: Subweapon
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001-Head
+    400006: Bip001-Head01
+    400008: Bip001-L-Calf
+    400010: Bip001-L-Clavicle
+    400012: Bip001-L-Finger0
+    400014: Bip001-L-Finger01
+    400016: Bip001-L-Finger1
+    400018: Bip001-L-Finger11
+    400020: Bip001-L-Finger2
+    400022: Bip001-L-Finger21
+    400024: Bip001-L-Foot
+    400026: Bip001-L-Forearm
+    400028: Bip001-L-Hand
+    400030: Bip001-L-Thigh
+    400032: Bip001-L-Toe0
+    400034: Bip001-L-UpperArm
+    400036: Bip001-Neck
+    400038: Bip001-Pelvis
+    400040: Bip001-R-Calf
+    400042: Bip001-R-Clavicle
+    400044: Bip001-R-Finger0
+    400046: Bip001-R-Finger01
+    400048: Bip001-R-Finger1
+    400050: Bip001-R-Finger11
+    400052: Bip001-R-Finger2
+    400054: Bip001-R-Finger21
+    400056: Bip001-R-Foot
+    400058: Bip001-R-Forearm
+    400060: Bip001-R-Hand
+    400062: Bip001-R-Thigh
+    400064: Bip001-R-Toe0
+    400066: Bip001-R-UpperArm
+    400068: Bip001-Spine
+    400070: Bip001-Spine1
+    400072: Bip001-Spine2
+    400074: Bip001-Spine3
+    400076: Body
+    400078: Bone-L-ForeArm-Twist
+    400080: Bone-L-UpperArm-Twist
+    400082: Bone-R-ForeArm-Twist
+    400084: Bone-R-UpperArm-Twist
+    400086: Bone_armour_LA_02
+    400088: Bone_armour_RA_01
+    400090: Bone_Cloak_L_01
+    400092: Bone_Cloak_L_02
+    400094: Bone_Cloak_L_03
+    400096: Bone_Cloak_L_04
+    400098: Bone_Cloak_R_01
+    400100: Bone_Cloak_R_02
+    400102: Bone_Cloak_R_03
+    400104: Bone_Cloak_R_04
+    400106: Bone_Hair_F_01
+    400108: Bone_Jaw
+    400110: Bone_Skirt_B_01
+    400112: Bone_Skirt_B_02
+    400114: Bone_Skirt_B_03
+    400116: Bone_Skirt_B_04
+    400118: Bone_Skirt_BL_01
+    400120: Bone_Skirt_BL_02
+    400122: Bone_Skirt_BL_03
+    400124: Bone_Skirt_BL_04
+    400126: Bone_Skirt_BR_01
+    400128: Bone_Skirt_BR_02
+    400130: Bone_Skirt_BR_03
+    400132: Bone_Skirt_BR_04
+    400134: Bone_Skirt_F_01
+    400136: Bone_Skirt_F_02
+    400138: Bone_Skirt_F_03
+    400140: Bone_Skirt_F_04
+    400142: Bone_Skirt_L_01
+    400144: Bone_Skirt_L_02
+    400146: Bone_Skirt_L_03
+    400148: Bone_Skirt_L_04
+    400150: Bone_Skirt_R_01
+    400152: Bone_Skirt_R_02
+    400154: Bone_Skirt_R_03
+    400156: Bone_Skirt_R_04
+    400158: Bone_Weapon_L
+    400160: Bone_Weapon_L_Body
+    400162: Bone_Weapon_R
+    400164: Bone_Weapon_R_Body
+    400166: Cloak
+    400168: Face
+    400170: FX_Bottom
+    400172: FX_Center
+    400174: FX_Hand_L
+    400176: FX_Hand_R
+    400178: FX_Top
+    400180: Hair
+    400182: Hand
+    400184: L_Cheek_Bone
+    400186: L_Eye_Dummy
+    400188: L_EyeBall_Bone
+    400190: L_EyeBrow_Bone
+    400192: L_Eyeild_D_Bone
+    400194: L_Eyeild_U_Bone
+    400196: L_Jaw_Side_Bone
+    400198: L_Lip_End_Bone
+    400200: Leg
+    400202: Lip_Center_D_Bone
+    400204: Lip_Center_U_Bone
+    400206: Mainweapon
+    400208: Nose_Bottom_Bone
+    400210: R_Cheek_Bone
+    400212: R_Eye_Dummy
+    400214: R_EyeBall_Bone
+    400216: R_EyeBrow_Bone
+    400218: R_Eyeild_D_Bone
+    400220: R_Eyeild_U_Bone
+    400222: R_Jaw_Side_Bone
+    400224: R_Lip_End_Bone
+    400226: Retina
+    400228: Root
+    400230: Subweapon
+    4300000: Hair
+    4300002: Cloak
+    4300004: Body
+    4300006: Hand
+    4300008: Leg
+    4300010: Mainweapon
+    4300012: Subweapon
+    4300014: Face
+    4300016: Retina
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body
+    13700002: Cloak
+    13700004: Face
+    13700006: Hair
+    13700008: Hand
+    13700010: Leg
+    13700012: Mainweapon
+    13700014: Retina
+    13700016: Subweapon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blader_Hair_007_MI
+    second: {fileID: 2100000, guid: 4fe2cfc077af03243a1316c661ec19f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blader_Retina_000_MI
+    second: {fileID: 2100000, guid: 52e8220b92eecf443ae9cbb3ceb7dfc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: aab6faef43b7e8444a5aae5a4ee9f19a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 3f67fde23fee55c419348ecbfa3a0820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 2ed140e57fe845843bf24a13af1ec515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: e0ad8f97349b8e24c8150c46cf902c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 37f9392bee5f6cf4cb89c093acc0e5a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: adfe44dd3530aa84796f682eb7a4342d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
